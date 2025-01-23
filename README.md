@@ -10,8 +10,11 @@ Not much, but it was a fun project to work on. You can however play around with 
 
 ## Help
 
-> Pause - Enter / Return / Break
-> Exit - Escape / Esc
+Keybinds
+ - Pause - Enter / Return / Break
+ - Exit - Escape / Esc
+
+For more help, open an issue.
 
 ## Resources
 None, I don't like installing libraries, so it's pretty much all from scratch (except for built in libraries e.g. windows api)
